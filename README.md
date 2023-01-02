@@ -1,6 +1,6 @@
 # ESPN CRICINFO CLONE
 Netlify: https://deft-starlight-51e03b.netlify.app/
-this repo is the clone of cricket website cricinfo
+
 
 # HOMEPAGE \
 ![image](https://user-images.githubusercontent.com/95860970/203134578-905998d4-dcf7-48e3-897b-a7bce2aea9e7.png)
